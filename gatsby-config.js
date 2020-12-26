@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata : {
+    author : "MVT", 
+    description : "Demo store data into redux in gatsby"
+  },
   plugins: [],
 }
