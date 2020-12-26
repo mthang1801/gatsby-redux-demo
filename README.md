@@ -4,5 +4,6 @@
 </p>
 
 ## Usage
-1. Install package management : `npm install`
-2. Open terminal : `npm start`
+1. Open terminal 
+2. Install package management : `npm install`
+3. Run application : `npm start`
